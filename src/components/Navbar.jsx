@@ -11,6 +11,7 @@ const Navbar=()=>{
             <NavLink to="/"><li className='text-2xl underline'>Home</li></NavLink>
             <NavLink to="/resume"><li className='text-2xl underline'>Resume</li></NavLink>
             <NavLink to="/project"><li className='text-2xl underline'>Project</li></NavLink>
+            <NavLink to="/skills"><li className='text-2xl underline'>Skills</li></NavLink>
             <NavLink to="/contact"><li className='text-2xl underline'>Contact</li></NavLink>
             </div>
             </div>
